@@ -10,5 +10,5 @@
 ## Eventos
 
 <!-- [SEMINCO: BCC e SIS] -->
- [Semana Acadêmica]  22 de Abril de 2026 - 24 de Abril de 2026
+<!-- [Semana Acadêmica]  22 de Abril de 2026 - 24 de Abril de 2026 -->
 <!-- [Escola Regional de Engenharia de Software - ERES]  -->
