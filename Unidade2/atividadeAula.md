@@ -4,6 +4,45 @@
 
 # Unidade 2 - Atividade  
 
+Após serem definidas os integrantes de cada equipe, a equipe deve escolher um dos Temas (não pode ter equipes com Temas repetidos) para desenvolver o projeto da disciplina.  
+
+## Temas
+
+### Tema A
+
+[RVi - Realidade Virtual Imersiva](README.md#realidade-virtual-imersiva-rv--rvi "RVi - Realidade Virtual Imersiva"): óculos (só mundo virtual)  
+
+### Tema B
+
+[RA - Realidade Aumentada](README.md#realidade-virtual-aumentada-ra "RA - Realidade Aumentada"): smartphone (ver mundo virtual sobre o real)  
+
+<!--
+### Tema C
+
+[RL - Realidade aLternativa](README.md#realidade-virtual-alternativa "RL - Realidade aLternativa"): GPS ("passear" pelo mundo real)  
+
+### Tema D
+
+[MV - Metaverso](README.md#metaverso "MV - Metaverso"): propiciar cooperação / colaboração, e pode usar RVi/RA/RA  
+
+-->
+
+----------
+
+
+### Apresentação Atividade (equipe)
+
+\[peso: 10,0] Vamos debater? Então desenvolva em equipe esta atividade, escolhendo três aplicativos e três hardwares que tenham relação com o [Tema](#temas) definido para sua equipe e prepare uma apresentação demonstrando as suas principais características (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual "Hardwares de Realidade Virtual"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
+
+Como parâmetro (aproximado) usem no máximo uns 20 minutos para a apresentação.
+
+<!--
+\[peso: 2,0] Agora um trabalho individual. Pesquise no livro [Introdução a Realidade Virtual e Aumentada](RealidadeVirtual_imgs/Conceitos-rv-ra.pdf "Introdução a Realidade Virtual e Aumentada") uma seção que esteja relacionada com o [Tema](#temas "Tema") definido para sua equipe e descreva um resumo sobre está seção.  
+Não esqueça de mencionar no resumo o seu nome, qual seção e o intervalo de página foi escolhido. O aluno deve postar o resumo em PDF no GitHub criado pelo professor para sua equipe (na pasta unidade_1).  
+
+**Atenção**, só será considerada como atividade cumprida se o comentário for coerente com o [Tema](#temas "Tema") escolhido, e ter uma descrição entre 2 e 4 parágrafos.
+
+
 Bom, agora que sua equipe já tem definido o [Tema](../Unidade1/atividadeAula.md#temas "Tema") do projeto da disciplina se deve pesquisar sobre hardwares relacionados com o [Tema](../Unidade1/atividadeAula.md#temas "Tema") escolhido.  
 
 ## Atividades
@@ -13,15 +52,16 @@ Bom, agora que sua equipe já tem definido o [Tema](../Unidade1/atividadeAula.md
 \[peso: 8,0] Nesta atividade cada equipe deve escolher quatro hardwares (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual "Hardwares de Realidade Virtual") que tenham relação com o [Tema](../Unidade1/atividadeAula.md#temas "Tema") definido para sua equipe e prepare uma apresentação demonstrando as suas [principais características](#características-dos-hardwares "principais características"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
 <!-- Como parâmetro (aproximado) usem no máximo uns 5 minutos para cada aplicativo e 5 minutos para discussão. -->  
 
-**Atenção**: a escolha dos quatro hardwares devem ser postados no AVA3 em [Unidade2 - Escolha do Hardware] e não teve ter hardware repetido.  
+**Atenção**: a escolha das três aplicações e dos três hardwares devem ser postados no AVA em [Unidade2 - Escolha de Aplicação e Hardware] e não teve ter aplicações e hardwares repetidos.  
 
-
+<!--
 ### 2B - Resumo texto complementar (individual)
 
 \[peso: 2,0] Agora um trabalho individual. Leia com muita atenção o artigo [Why VR/AR Gets Farther Away as It Comes Into Focus](atividade_WhyVRARGetsFartherAwayAsItComesIntoFocus.pdf) e descreva um resumo sobre este artigo. No seu resumo procure descrever de uma forma crítica comentando pontos que concorda e/ou descorda com o autor.
 Não esqueça de mencionar no resumo o seu nome, e postar em PDF no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
 
-**Atenção**, só será considerada como atividade cumprida se o comentário for coerente com o **artigo** escolhido, e ter uma descrição entre 2 e 4 parágrafos.  
+**Atenção**, só será considerada como atividade cumprida se o comentário for coerente com o **artigo** escolhido, e ter uma descrição entre 2 e 4 parágrafos. 
+-->
 
 ## Hardwares de Realidade Virtual
 

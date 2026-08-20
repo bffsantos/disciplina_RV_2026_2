@@ -1,5 +1,5 @@
-# Unidade 1 - Atividade  
-
+# Unidade 1 - Avaliação  
+<!--
 Após serem definidas os integrantes de cada equipe, a equipe deve escolher um dos Temas (não pode ter equipes com Temas repetidos) para desenvolver o projeto da disciplina.  
 
 ## Temas
@@ -24,7 +24,7 @@ Após serem definidas os integrantes de cada equipe, a equipe deve escolher um d
 -->
 
 ----------
-
+<!--
 ## Atividade
 
 ### 1A - Apresentação Atividade (equipe)
@@ -37,4 +37,8 @@ Como parâmetro (aproximado) usem no máximo uns 5 minutos para cada aplicativo 
 \[peso: 2,0] Agora um trabalho individual. Pesquise no livro [Introdução a Realidade Virtual e Aumentada](RealidadeVirtual_imgs/Conceitos-rv-ra.pdf "Introdução a Realidade Virtual e Aumentada") uma seção que esteja relacionada com o [Tema](#temas "Tema") definido para sua equipe e descreva um resumo sobre está seção.  
 Não esqueça de mencionar no resumo o seu nome, qual seção e o intervalo de página foi escolhido. O aluno deve postar o resumo em PDF no GitHub criado pelo professor para sua equipe (na pasta unidade_1).  
 
-**Atenção**, só será considerada como atividade cumprida se o comentário for coerente com o [Tema](#temas "Tema") escolhido, e ter uma descrição entre 2 e 4 parágrafos.  
+**Atenção**, só será considerada como atividade cumprida se o comentário for coerente com o [Tema](#temas "Tema") escolhido, e ter uma descrição entre 2 e 4 parágrafos.
+
+-->
+
+\[peso: 10,0] Será feita uma avaliação teórica com questões de múltipla escolha. A avaliação será baseada nas aulas de conceitos gerais de RV, que são importantes para o momento de concepção do projeto do semestre. 
