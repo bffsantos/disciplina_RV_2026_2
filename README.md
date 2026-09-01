@@ -50,6 +50,8 @@ Apple Vision Pro: [Vision](https://developer.apple.com/documentation/visionos)
 
 ## [Unidade4](Unidade4 "Unidade 4")  
 
+E-mail: bffsantos@furb.br
+
 <!-- ## Visão Geral
 
 ![Visão Geral](./visaoGeral.drawio.svg)   -->
