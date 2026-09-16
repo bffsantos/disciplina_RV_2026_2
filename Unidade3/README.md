@@ -8,7 +8,8 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
 
 - Ambientes de desenvolvimento em Realidade Virtual  
   - Softwares de Realidade Virtual  
-  - IDEs, Linguagens, Bibliotecas e/ou Frameworks  
+  - IDEs, Linguagens, Bibliotecas e/ou Frameworks
+  - Versão Unity: 6000.3.14f1
 
 ## Objetivos
 
